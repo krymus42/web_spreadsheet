@@ -1,0 +1,14 @@
+table.sheet th,
+table.sheet td {
+  min-width: 100;
+  min-height: 100;
+  width: 30px;
+  height: 30px;
+  max-width: 400;
+  max-height: 400;
+}
+
+table.sheet {
+  background-color: blue;
+  border-spacing: 0px;
+}
